@@ -1,0 +1,21 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "First Cypress Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lohianeha"
+  },
+  "keywords": [
+    "25Eva2020"
+  ],
+  "author": "Neha Lohia",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.7.0"
+  }
+}
